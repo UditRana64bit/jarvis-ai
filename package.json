@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^3.0.20",
+    "@ai-sdk/react": "^3.0.70",
+    "@nanostores/react": "github:ai/react",
     "ai": "^6.0.68",
     "framer-motion": "^12.30.0",
     "lucide-react": "^0.563.0",

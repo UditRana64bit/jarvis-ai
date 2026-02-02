@@ -1,5 +1,5 @@
 "use client";
-import { useChat } from 'ai/react';
+import { useChat } from '@ai-sdk/react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Terminal, Activity, ShieldCheck, Zap } from 'lucide-react';
 
